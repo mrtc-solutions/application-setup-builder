@@ -1,8 +1,9 @@
 **App Build Automation Scripts**
 A collection of batch scripts for automating the build process of Android APK and Windows EXE files from your project root directory.
 
-**📁 Files Overview
-1. builder_android.bat**
+**📁 Files Overview**
+
+**1. builder_android.bat**
 Purpose: Automates the build process for Android APK files
 Supported Frameworks: Cordova, Ionic, React Native, Standard Node.js
 
@@ -10,7 +11,7 @@ Supported Frameworks: Cordova, Ionic, React Native, Standard Node.js
 Purpose: Automates the build process for Windows EXE files
 Supported Frameworks: Electron, Node.js (using pkg), General applications
 
-3. builder_universal.bat
+**3. builder_universal.bat**
 Purpose: Interactive script that lets you choose between Android, Windows, or both builds
 
 **🚀 Quick Start**
